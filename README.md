@@ -1,6 +1,6 @@
-# moreboats-docs
+# Moreboats Documentation
 
-Moreboats documentation for clients:
+To access documentation visit our Wiki:
 
 https://github.com/ambimark/moreboats-docs/wiki
 
